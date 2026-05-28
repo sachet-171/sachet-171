@@ -1,8 +1,8 @@
 # Sachet Khanal
 
-### Flutter Developer · Mobile App Engineer · Bloc & Clean Architecture
+### Senior Flutter Developer · Mobile App Engineer
 
-I build and ship production mobile apps for real estate and ecommerce using Flutter and Dart. I focus on Bloc-driven state management, real-time WebSocket features, Google & Apple Maps, deep linking, and end-to-end releases on the Play Store and App Store.
+I design, build, and ship production mobile apps that reach tens of thousands of users. With **4+ years** in Flutter, I own features end to end — clean architecture, predictable state management, real-time chat, AI-integrated flows, maps, and releases on both the Play Store and App Store.
 
 [![Email](https://img.shields.io/badge/Email-khanalsachet17%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanalsachet17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachet--khanal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachet-khanal-29b80225a)
@@ -12,11 +12,11 @@ I build and ship production mobile apps for real estate and ecommerce using Flut
 
 ## About
 
-I am a Flutter Developer from Nepal with **3+ years** of hands-on experience building and shipping production mobile apps. My work spans real estate and ecommerce products, where I focus on stable, responsive UIs and reliable real-time experiences.
+Senior Flutter Developer from Nepal with **4+ years** building and scaling production mobile apps across real estate, ecommerce, and AI-driven products. I care about clean architecture, predictable state, smooth real-time experiences, and apps that stay stable and performant as they grow.
 
-I enjoy working across the full mobile delivery cycle — from clean architecture and Bloc state management to API integration, WebSocket chat, maps, deep linking, and store releases on both Android and iOS.
+I lead features from architecture through delivery — state management, API integration, WebSocket chat, AI-assisted flows, maps, navigation, and store releases on Android and iOS.
 
-Currently, I am strengthening my understanding of testing, CI/CD, performance profiling, and scalable app architecture.
+I have a strong **hunger to learn** and continuously sharpen my craft in scalable architecture, AI integration, testing, CI/CD, and performance — always pushing toward cleaner, faster, more reliable apps.
 
 ---
 
@@ -24,27 +24,35 @@ Currently, I am strengthening my understanding of testing, CI/CD, performance pr
 
 | | |
 |---|---|
-| **Mobile Development** | Flutter (Dart), Android (XML), clean architecture, responsive component-based UI |
-| **State Management** | Bloc / Cubit, Provider, Streams, pagination, chunked & streaming API handling |
-| **Real-time & Maps** | WebSockets (chat, notifications, message sync, unread counts), Google Maps & Apple Maps, marker clustering, role-based map experiences |
-| **Backend & Release** | REST APIs, Firebase, Hive, MySQL, Laravel APIs, deep linking, Play Console & App Store Connect |
+| **Mobile Engineering** | Flutter (Dart), Android (XML), clean & scalable architecture, responsive component-based UI |
+| **State Management** | **Bloc / Cubit** (primary), Provider, Streams — predictable state, pagination, and clean handling of chunked & streaming API responses |
+| **Real-time & AI** | WebSocket chat & notifications (message sync, unread counts), AI-assisted chat, and AI-integrated product flows |
+| **Maps & Navigation** | Google Maps & Apple Maps, marker clustering, role-based map experiences; `go_router` declarative navigation and deep linking |
+| **Backend & Release** | REST APIs, Firebase, Hive, MySQL, Laravel APIs; end-to-end releases via Play Console & App Store Connect |
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**State Management**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/XML-FF6C37?style=flat&logo=xml&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-2D6AE0?style=flat&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-2D6AE0?style=flat&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4FC08D?style=flat&logo=flutter&logoColor=white)
+![Streams](https://img.shields.io/badge/Streams-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Mobile & State Management**
+**Languages & Core**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-2D6AE0?style=flat&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4FC08D?style=flat&logo=flutter&logoColor=white)
+![go_router](https://img.shields.io/badge/go__router-0553B1?style=flat&logo=flutter&logoColor=white)
+
+**Real-time & AI**
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=flat&logo=openai&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
 
 **Backend & Data**
 
@@ -52,11 +60,10 @@ Currently, I am strengthening my understanding of testing, CI/CD, performance pr
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat&logo=apachehive&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
-**Tools & Delivery**
+**Maps & Tools**
 
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)
@@ -68,23 +75,25 @@ Currently, I am strengthening my understanding of testing, CI/CD, performance pr
 
 | Project | Description |
 |---|---|
-| **[Nepal Niwas](https://play.google.com/store/apps/details?id=com.nepalniwas.mobile)** · *10k+ downloads* | Real estate app for buying, selling, and renting properties in Nepal. Published and maintained across Android & iOS, including store updates. [iOS](https://apps.apple.com/us/app/nepal-niwas/id6749683196) |
-| **[OpenReal](https://play.google.com/store/apps/details?id=ai.openreal.app)** | AI-supported real estate app with AI-assisted chat, role-based management flows, real-time socket flows, and deep-link navigation. [iOS](https://apps.apple.com/us/app/openreal/id6748515451) |
+| **[Nepal Niwas](https://play.google.com/store/apps/details?id=com.nepalniwas.mobile)** · *65k+ downloads* | Real estate platform for buying, selling, and renting properties in Nepal. Shipped and maintained across Android & iOS with **65k+ combined downloads**, including ongoing store releases. [iOS](https://apps.apple.com/us/app/nepal-niwas/id6749683196) |
+| **[OpenReal](https://play.google.com/store/apps/details?id=ai.openreal.app)** | AI-supported real estate app — AI-assisted chat, role-based management flows, real-time socket communication, and deep-link navigation. [iOS](https://apps.apple.com/us/app/openreal/id6748515451) |
+| **Golden Circle** | Production Flutter mobile application built with Bloc and clean architecture. *(add a one-line description)* |
 | **[Mero Discount](https://play.google.com/store/apps/details?id=com.discountsecommerce.merodiscounts)** | Ecommerce app with efficient state management, a structured blog system, and API integration. |
 | **[Shoesly](https://github.com/sachet-171/Shoesly-App)** | Shoe-buying platform. |
-| **[Dairy Ease](https://github.com/sachet-171/DairyEase_api)** | Dairy management system. |
 | **[Parba](https://github.com/sachet-171/Ecommerce_App)** | Ecommerce mobile application. |
 
 ---
 
 ## What I Bring
 
-- Production Flutter apps live on the **Play Store & App Store** with **10k+ downloads**
-- **Bloc / Provider** architecture with pagination, streaming, and chunked API handling
+- Production Flutter apps live on **Play Store & App Store** — **65k+ downloads** on Nepal Niwas alone
+- **Bloc-first** architecture: predictable state, pagination, and clean chunked & streaming response handling
 - **Real-time** chat & notifications over WebSockets with message sync and unread counts
+- **AI integration** — AI-assisted chat and AI-driven product flows
 - **Google & Apple Maps** with marker clustering and role-based experiences
-- **Deep linking** into specific property and conversation screens
+- **`go_router` navigation** and deep linking into specific property and conversation screens
 - End-to-end **release management** via Play Console & App Store Connect
+- A consistent **hunger to learn** and raise the engineering bar on every project
 
 ---
 
@@ -92,9 +101,9 @@ Currently, I am strengthening my understanding of testing, CI/CD, performance pr
 
 | | |
 |---|---|
+| Scalable & modular architecture | AI integration in mobile apps |
 | Testing & test-driven Flutter | CI/CD for mobile |
-| Performance profiling | Scalable app architecture |
-| Clean architecture patterns | Animations & polished UX |
+| Performance profiling | Animations & polished UX |
 
 ---
 
