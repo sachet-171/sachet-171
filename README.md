@@ -107,21 +107,7 @@ I have a strong **hunger to learn** and continuously sharpen my craft in scalabl
 ---
 
 ## GitHub Stats
-
-![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachet-171&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachet-171&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sachet-171&theme=tokyonight)
 
----
-## GitHub
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sachet-171&theme=tokyonight&no-frame=true&margin-w=8&column=7)](https://github.com/sachet-171)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sachet-171&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachet-171&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
