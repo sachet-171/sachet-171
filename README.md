@@ -1,6 +1,6 @@
 # Sachet Khanal
 
-### Senior Flutter Developer · Mobile App Engineer
+### Flutter Developer · Mobile App Engineer
 
 I design, build, and ship production mobile apps that reach tens of thousands of users. With **4+ years** in Flutter, I own features end to end — clean architecture, predictable state management, real-time chat, AI-integrated flows, maps, and releases on both the Play Store and App Store.
 
@@ -12,7 +12,7 @@ I design, build, and ship production mobile apps that reach tens of thousands of
 
 ## About
 
-Senior Flutter Developer from Nepal with **4+ years** building and scaling production mobile apps across real estate, ecommerce, and AI-driven products. I care about clean architecture, predictable state, smooth real-time experiences, and apps that stay stable and performant as they grow.
+ Flutter Developer from Nepal with **4+ years** building and scaling production mobile apps across real estate, ecommerce, and AI-driven products. I care about clean architecture, predictable state, smooth real-time experiences, and apps that stay stable and performant as they grow.
 
 I lead features from architecture through delivery — state management, API integration, WebSocket chat, AI-assisted flows, maps, navigation, and store releases on Android and iOS.
 
@@ -28,7 +28,7 @@ I have a strong **hunger to learn** and continuously sharpen my craft in scalabl
 | **State Management** | **Bloc / Cubit** (primary), Provider, Streams — predictable state, pagination, and clean handling of chunked & streaming API responses |
 | **Real-time & AI** | WebSocket chat & notifications (message sync, unread counts), AI-assisted chat, and AI-integrated product flows |
 | **Maps & Navigation** | Google Maps & Apple Maps, marker clustering, role-based map experiences; `go_router` declarative navigation and deep linking |
-| **Backend & Release** | REST APIs, Firebase, Hive, MySQL, Laravel APIs; end-to-end releases via Play Console & App Store Connect |
+| **Backend & Release** | REST APIs, Firebase, Hive, MySQL; end-to-end releases via Play Console & App Store Connect |
 
 ---
 
@@ -59,7 +59,6 @@ I have a strong **hunger to learn** and continuously sharpen my craft in scalabl
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat&logo=apachehive&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Maps & Tools**
 
@@ -117,11 +116,4 @@ I have a strong **hunger to learn** and continuously sharpen my craft in scalabl
 
 ---
 
-## Education
 
-- **Bachelor of Computer Application (BCA)** — Oxford College of Engineering and Management (2023)
-- **Computer Science** — Prerana College (2018)
-
----
-
-<sub>Bharatpur, Chitwan, Nepal · Languages: English, Nepali, Hindi · Comfortable with Git flow, code reviews, and release processes</sub>
