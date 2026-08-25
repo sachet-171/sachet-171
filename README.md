@@ -83,7 +83,7 @@ I have a strong **hunger to learn** and continuously sharpen my craft in scalabl
 |---|---|
 | **[Nepal Niwas](https://play.google.com/store/apps/details?id=com.nepalniwas.mobile)** · *65k+ downloads* | Real estate platform for buying, selling, and renting properties in Nepal. Shipped and maintained across Android & iOS with **65k+ combined downloads**, including ongoing store releases. [iOS](https://apps.apple.com/us/app/nepal-niwas/id6749683196) |
 | **[OpenReal](https://play.google.com/store/apps/details?id=ai.openreal.app)** | AI-supported real estate app — AI-assisted chat, role-based management flows, real-time socket communication, and deep-link navigation. [iOS](https://apps.apple.com/us/app/openreal/id6748515451) |
-| **Golden Circle** | AI-powered note-taking & productivity app — Ai based conversational assistant, meeting notes and management, all in one workspace. Built with Flutter, Bloc, and clean architecture. |
+| **Cordia** | AI-powered note-taking & productivity app — Ai based conversational assistant, meeting notes and management, all in one workspace. Built with Flutter, Bloc, and clean architecture. |
 | **[Mero Discount](https://play.google.com/store/apps/details?id=com.discountsecommerce.merodiscounts)** | Ecommerce app with efficient state management, a structured blog system, and API integration. |
 | **[Shoesly](https://github.com/sachet-171/Shoesly-App)** | Shoe-buying platform. |
 | **[Parba](https://github.com/sachet-171/Ecommerce_App)** | Ecommerce mobile application. |
